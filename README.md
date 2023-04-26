@@ -1,1 +1,5 @@
-This is the starting point for Building a Terraform Demo, in the Introduction to Terraform course.
+# Terraform Demo
+
+---
+
+This is an example deploying Wordpress on an EC2 instance as well as a MySQL RDS.
